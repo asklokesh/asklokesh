@@ -1,85 +1,111 @@
-<div align="center">
-
-# Hi, I'm @asklokesh 👋
-
-[\![Profile Views](https://komarev.com/ghpvc/?username=asklokesh&color=DC143C&style=for-the-badge)](https://github.com/asklokesh)
-[\![Followers](https://img.shields.io/github/followers/asklokesh?style=for-the-badge&logo=github)](https://github.com/asklokesh?tab=followers)
-[\![GitHub Stars](https://img.shields.io/github/stars/asklokesh?style=for-the-badge&logo=github)](https://github.com/asklokesh?tab=repositories)
-
-</div>
-
-## 📊 GitHub Stats
+# AskLokesh | Cloud & Agentic AI Solutions Architect
 
 <div align="center">
-
-[\![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asklokesh&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&title_color=DC143C&icon_color=696969)](https://github.com/asklokesh)
-
-[\![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asklokesh&layout=compact&theme=dark&hide_border=true&bg_color=161B22&title_color=DC143C)](https://github.com/asklokesh)
-
-[\![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=dark&hide_border=true&background=161B22&ring=DC143C&fire=DC143C)](https://github.com/asklokesh)
-
+  <img src="https://github.com/asklokesh.png" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture">
+  
+  <h2>Cloud Infrastructure Expert</h2>
+  
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/FOCUS-ENTERPRISE%20ARCHITECTURE-DC143C?style=for-the-badge&labelColor=2B2B2B" alt="Focus"></a>
+    <a href="#"><img src="https://img.shields.io/badge/SPECIALIZATION-CLOUD%20NATIVE-696969?style=for-the-badge&labelColor=2B2B2B" alt="Specialization"></a>
+    <a href="#"><img src="https://img.shields.io/badge/EXPERIENCE-SYSTEM%20DESIGN-696969?style=for-the-badge&labelColor=2B2B2B" alt="Experience"></a>
+  </p>
 </div>
 
-## 🏆 GitHub Achievements
+---
+
+## GitHub Activity Overview
 
 <div align="center">
-
-[\![trophy](https://github-profile-trophy.vercel.app/?username=asklokesh&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🎯 Achievement Hunt Progress
-
-| Achievement | Status | How to Get |
-|------------|--------|------------|
-| \![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-In_Progress-yellow?style=for-the-badge) | Need 2 PRs | Merge 2 pull requests |
-| \![YOLO](https://img.shields.io/badge/🎯_YOLO-Ready-green?style=for-the-badge) | Available | Merge PR without review |
-| \![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Ready-green?style=for-the-badge) | Available | Close issue in 5 mins |
-| \![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Planning-orange?style=for-the-badge) | Planning | Coauthor a PR |
-| \![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-In_Progress-yellow?style=for-the-badge) | Need answers | 2 accepted answers |
-| \![Starstruck](https://img.shields.io/badge/⭐_Starstruck-Tracking-blue?style=for-the-badge) | Need stars | Get 16 stars on a repo |
-| \![Public Sponsor](https://img.shields.io/badge/💖_Public_Sponsor-Ready-green?style=for-the-badge) | Available | Sponsor someone |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=asklokesh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&icon_color=DC143C" alt="GitHub Stats">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=dark&hide_border=true&background=0d1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" alt="GitHub Streak">
 </div>
 
-## 📈 Contribution Activity
+## Technical Expertise
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Container Orchestration
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/RANCHER-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OPENSHIFT-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+
+### DevOps Tools
+![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ARGOCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Data Technologies
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+## Key Projects
+
+### LokiMCPUniverse - Enterprise MCP Server Collection
+
+Building a comprehensive suite of Model Context Protocol (MCP) servers for enterprise AI integration. Currently developing 24+ production-ready servers for platforms including Salesforce, AWS, GCP, Jenkins, ArgoCD, and more.
 
 <div align="center">
-
-[\![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asklokesh&theme=react-dark&hide_border=true&bg_color=161B22&color=DC143C&line=DC143C&point=696969)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <a href="https://github.com/LokiMCPUniverse/mcp-servers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LokiMCPUniverse&repo=mcp-servers&theme=dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C" alt="MCP Servers">
+  </a>
 </div>
 
-## 🏢 Organization: LokiMCPUniverse
+### Architecture Principles
+
+**Scalability**: Design systems that handle millions of requests with horizontal and vertical scaling capabilities
+
+**Security**: Implement zero-trust architectures with defense-in-depth strategies
+
+**Reliability**: Build fault-tolerant systems achieving 99.99% uptime SLAs
+
+**Performance**: Optimize for sub-second response times across distributed systems
+
+## Professional Background
+
+**System Architect** - Designed and implemented multi-cloud solutions serving over 10 million users globally
+
+**Cloud Engineer** - Reduced infrastructure costs by 40% through strategic optimization and automation
+
+**API Specialist** - Developed 30+ enterprise-grade API integrations with focus on security and performance
+
+**DevOps Lead** - Achieved 99.9% deployment success rate through robust CI/CD pipeline implementation
+
+## Current Initiatives
+
+Building enterprise-ready MCP servers for GenAI integration across major platforms
+
+Architecting cloud-native solutions for large-scale distributed systems
+
+Developing infrastructure automation frameworks for modern DevOps practices
+
+Contributing to open-source projects that advance cloud computing capabilities
+
+## Connect
 
 <div align="center">
-
-[\![Organization](https://img.shields.io/badge/Organization-LokiMCPUniverse-DC143C?style=for-the-badge&logo=github)](https://github.com/LokiMCPUniverse)
-[\![Repositories](https://img.shields.io/badge/Repositories-26+-696969?style=for-the-badge)](https://github.com/orgs/LokiMCPUniverse/repositories)
-[\![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-DC143C?style=for-the-badge)](https://github.com/LokiMCPUniverse/mcp-servers)
-
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-\![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-\![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-\![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-\![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-\![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  
+[![GitHub](https://img.shields.io/badge/GitHub-asklokesh-181717?style=for-the-badge&logo=github)](https://github.com/asklokesh)
+[![Organization](https://img.shields.io/badge/Organization-LokiMCPUniverse-DC143C?style=for-the-badge&logo=github)](https://github.com/LokiMCPUniverse)
 
 </div>
-
-## 🚀 Current Focus
-
-- 🔧 Building enterprise-ready MCP servers at [LokiMCPUniverse](https://github.com/LokiMCPUniverse)
-- 🤖 Creating seamless GenAI integrations for business platforms
-- 🌟 Open source contributions and community building
 
 ---
 
 <div align="center">
-
-**Building the future of enterprise AI integration, one MCP server at a time** 🚀
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asklokesh&theme=github_dark" alt="Profile Summary">
 </div>

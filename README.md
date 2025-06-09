@@ -1,10 +1,7 @@
 # AskLokesh | Cloud & Agentic AI Solutions Architect
 
 <div align="center">
-  <img src="https://github.com/asklokesh.png" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture">
-  
-  <h2>Cloud Infrastructure Expert</h2>
-  
+    
   <p>
     <a href="#"><img src="https://img.shields.io/badge/FOCUS-ENTERPRISE%20ARCHITECTURE-DC143C?style=for-the-badge&labelColor=2B2B2B" alt="Focus"></a>
     <a href="#"><img src="https://img.shields.io/badge/SPECIALIZATION-CLOUD%20NATIVE-696969?style=for-the-badge&labelColor=2B2B2B" alt="Specialization"></a>

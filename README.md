@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> Lokesh Kumar | System Architect
+# Lokesh Kumar | System Architect
 
 <div align="center">
 
@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" width="49%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Tech Stack & Architecture Expertise
+## Tech Stack & Architecture Expertise
 
 <table align="center">
 <tr>
@@ -79,7 +79,7 @@
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Featured Project: MCP Servers Collection
+## Featured Project: MCP Servers Collection
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 <tr>
 <td width="33%" align="center">
 
-### <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /> Salesforce MCP
+### Salesforce MCP
 [![](https://img.shields.io/badge/API-Complete-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
 [![](https://img.shields.io/badge/Tests-Passing-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
 
@@ -104,7 +104,7 @@ Enterprise CRM integration with full API coverage
 </td>
 <td width="33%" align="center">
 
-### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" /> AWS MCP
+### AWS MCP
 [![](https://img.shields.io/badge/Services-25+-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
 [![](https://img.shields.io/badge/Multi--Account-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
 
@@ -113,7 +113,7 @@ Comprehensive AWS services integration
 </td>
 <td width="33%" align="center">
 
-### <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> GCP MCP
+### GCP MCP
 [![](https://img.shields.io/badge/BigQuery-Enabled-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
 [![](https://img.shields.io/badge/Vertex_AI-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
 
@@ -124,7 +124,7 @@ Google Cloud Platform complete integration
 <tr>
 <td width="33%" align="center">
 
-### <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> Jenkins MCP
+### Jenkins MCP
 [![](https://img.shields.io/badge/Pipeline-Supported-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
 [![](https://img.shields.io/badge/Blue_Ocean-API-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
 
@@ -133,7 +133,7 @@ CI/CD automation server integration
 </td>
 <td width="33%" align="center">
 
-### <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> ArgoCD MCP
+### ArgoCD MCP
 [![](https://img.shields.io/badge/GitOps-Native-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
 [![](https://img.shields.io/badge/K8s-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
 
@@ -142,7 +142,7 @@ GitOps continuous delivery for Kubernetes
 </td>
 <td width="33%" align="center">
 
-### <img src="https://img.shields.io/badge/More-Coming_Soon-DC143C?style=flat-square&labelColor=2B2B2B" /> 25+ More
+### 25+ More
 [![](https://img.shields.io/badge/HubSpot-In_Progress-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
 [![](https://img.shields.io/badge/Azure-Planned-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
 
@@ -152,7 +152,7 @@ Enterprise integrations in development
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" height="25" /> Architecture Philosophy
+## Architecture Philosophy
 
 <div align="center">
 
@@ -199,7 +199,7 @@ graph LR
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25" /> Professional Experience
+## Professional Experience
 
 <div align="center">
 
@@ -212,27 +212,27 @@ graph LR
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" height="25" /> Current Focus
+## Current Focus
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   🔴 Building Enterprise MCP Servers for GenAI Integration     │
+│   • Building Enterprise MCP Servers for GenAI Integration      │
 │                                                                 │
-│   ⚫ Architecting Cloud-Native Solutions at Scale              │
+│   • Architecting Cloud-Native Solutions at Scale               │
 │                                                                 │
-│   🔴 Developing Infrastructure Automation Frameworks            │
+│   • Developing Infrastructure Automation Frameworks             │
 │                                                                 │
-│   ⚫ Creating Open-Source Tools for the Community              │
+│   • Creating Open-Source Tools for the Community               │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25" height="25" /> Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 

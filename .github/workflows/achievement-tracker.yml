@@ -1,0 +1,31 @@
+name: Achievement Tracker
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily
+  workflow_dispatch:
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Check Achievement Progress
+        run: |
+          echo "🏆 Checking achievement progress..."
+          
+          # Pull Shark - Need 2 merged PRs
+          PR_COUNT=$(gh pr list --author @me --state merged --json number --jq length)
+          echo "Pull Shark Progress: $PR_COUNT/2 PRs merged"
+          
+          # Quickdraw - Close issue within 5 minutes
+          echo "Quickdraw: Ready to achieve (create and close an issue quickly)"
+          
+          # Galaxy Brain - 2 accepted answers in discussions
+          echo "Galaxy Brain: Check discussions for opportunities"
+          
+          # Starstruck - 16 stars on a repo
+          STAR_COUNT=$(gh api repos/${{ github.repository }} --jq .stargazers_count)
+          echo "Starstruck Progress: $STAR_COUNT/16 stars"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

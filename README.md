@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> AskLokesh | System Architect
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> AskLokesh | Cloud & Agentic AI Solutions Architect
 
 <div align="center">
 
@@ -66,8 +66,8 @@
 
 ### Enterprise-Ready Model Context Protocol (MCP) Servers
 
-<a href="https://github.com/asklokesh/mcp-servers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asklokesh&repo=mcp-servers&theme=dark&hide_border=true&bg_color=161B22&title_color=DC143C&icon_color=696969" />
+<a href="https://github.com/LokiMCPUniverse/mcp-servers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LokiMCPUniverse&repo=mcp-servers&theme=dark&hide_border=true&bg_color=161B22&title_color=DC143C&icon_color=696969" />
 </a>
 
 </div>
@@ -77,8 +77,8 @@
 <td width="33%" align="center">
 
 ### <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /> Salesforce MCP
-[![](https://img.shields.io/badge/API-Complete-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
-[![](https://img.shields.io/badge/Tests-Passing-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
+[![](https://img.shields.io/badge/API-Complete-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/salesforce-mcp-server)
+[![](https://img.shields.io/badge/Tests-Passing-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/salesforce-mcp-server)
 
 Enterprise CRM integration with full API coverage
 
@@ -86,8 +86,8 @@ Enterprise CRM integration with full API coverage
 <td width="33%" align="center">
 
 ### <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" /> AWS MCP
-[![](https://img.shields.io/badge/Services-25+-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
-[![](https://img.shields.io/badge/Multi--Account-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
+[![](https://img.shields.io/badge/Services-25+-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/aws-mcp-server)
+[![](https://img.shields.io/badge/Multi--Account-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/aws-mcp-server)
 
 Comprehensive AWS services integration
 
@@ -95,8 +95,8 @@ Comprehensive AWS services integration
 <td width="33%" align="center">
 
 ### <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> GCP MCP
-[![](https://img.shields.io/badge/BigQuery-Enabled-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
-[![](https://img.shields.io/badge/Vertex_AI-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
+[![](https://img.shields.io/badge/BigQuery-Enabled-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/gcp-mcp-server)
+[![](https://img.shields.io/badge/Vertex_AI-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/gcp-mcp-server)
 
 Google Cloud Platform complete integration
 
@@ -106,8 +106,8 @@ Google Cloud Platform complete integration
 <td width="33%" align="center">
 
 ### <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> Jenkins MCP
-[![](https://img.shields.io/badge/Pipeline-Supported-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
-[![](https://img.shields.io/badge/Blue_Ocean-API-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
+[![](https://img.shields.io/badge/Pipeline-Supported-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/jenkins-mcp-server)
+[![](https://img.shields.io/badge/Blue_Ocean-API-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/jenkins-mcp-server)
 
 CI/CD automation server integration
 
@@ -115,8 +115,8 @@ CI/CD automation server integration
 <td width="33%" align="center">
 
 ### <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" /> ArgoCD MCP
-[![](https://img.shields.io/badge/GitOps-Native-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
-[![](https://img.shields.io/badge/K8s-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
+[![](https://img.shields.io/badge/GitOps-Native-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/argocd-mcp-server)
+[![](https://img.shields.io/badge/K8s-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse/argocd-mcp-server)
 
 GitOps continuous delivery for Kubernetes
 
@@ -124,10 +124,10 @@ GitOps continuous delivery for Kubernetes
 <td width="33%" align="center">
 
 ### <img src="https://img.shields.io/badge/More-Coming_Soon-DC143C?style=flat-square&labelColor=2B2B2B" /> 25+ More
-[![](https://img.shields.io/badge/HubSpot-In_Progress-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
-[![](https://img.shields.io/badge/Azure-Planned-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
+[![](https://img.shields.io/badge/HubSpot-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse)
+[![](https://img.shields.io/badge/Azure-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/LokiMCPUniverse)
 
-Enterprise integrations in development
+Complete enterprise integrations collection
 
 </td>
 </tr>
@@ -193,20 +193,20 @@ graph LR
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" height="25" /> Current Focus
+## Current Focus
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   🔴 Building Enterprise MCP Servers for GenAI Integration     │
+│   • Building Enterprise MCP Servers for GenAI Integration     │
 │                                                                 │
-│   ⚫ Architecting Cloud-Native Solutions at Scale              │
+│   • Architecting Cloud-Native Solutions at Scale              │
 │                                                                 │
-│   🔴 Developing Infrastructure Automation Frameworks            │
+│   • Developing Infrastructure Automation Frameworks            │
 │                                                                 │
-│   ⚫ Creating Open-Source Tools for the Community              │
+│   • Creating Open-Source Tools for the Community              │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -217,7 +217,7 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2B2B)](https://linkedin.com/in/asklokesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2B2B)](https://www.linkedin.com/in/iamlokesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B)](https://github.com/asklokesh)
 [![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2B2B)](mailto:asklokesh@github.com)
 

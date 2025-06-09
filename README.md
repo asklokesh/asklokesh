@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" width="49%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Tech Stack & Architecture Expertise
+## Tech Stack & Architecture Expertise
 
 <table align="center">
 <tr>
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Featured Project: MCP Servers Collection
+## Featured Project: MCP Servers Collection
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Complete enterprise integrations collection
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" height="25" /> Architecture Philosophy
+## Architecture Philosophy
 
 <div align="center">
 
@@ -180,7 +180,7 @@ graph LR
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25" /> Professional Experience
+## Professional Experience
 
 <div align="center">
 
@@ -213,7 +213,7 @@ graph LR
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25" height="25" /> Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 

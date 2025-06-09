@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> AskLokesh | Cloud & Agentic AI Solutions Architect
+# AskLokesh | Cloud & Agentic AI Solutions Architect
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Expert;API+Integration+Specialist;GenAI+Solutions+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Cloud+%26+Agentic+AI+Solutions+Architect;Enterprise+System+Architect;API+Integration+Specialist;GenAI+Solutions+Developer)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Focus-Enterprise%20Architecture-DC143C?style=for-the-badge&labelColor=2B2B2B" />
 <img src="https://img.shields.io/badge/Specialization-Cloud%20Native-696969?style=for-the-badge&labelColor=2B2B2B" />

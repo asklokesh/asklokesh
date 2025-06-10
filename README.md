@@ -236,7 +236,7 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2B2B)](https://linkedin.com/in/asklokesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2B2B)](https://linkedin.com/in/iamlokesh)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B)](https://github.com/asklokesh)
 [![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2B2B)](mailto:asklokesh@github.com)
 

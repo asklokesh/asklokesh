@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/iamlokesh"><img src="https://img.shields.io/badge/LinkedIn-iamlokesh-d97757?style=flat&labelColor=1a1a1a&logoColor=d97757&logo=linkedin" /></a>
 <img src="https://img.shields.io/badge/Location-Available%20Globally-d97757?style=flat&labelColor=1a1a1a" />
-<a href="mailto:asklokesh@github.com"><img src="https://img.shields.io/badge/Email-asklokesh-d97757?style=flat&labelColor=1a1a1a" /></a>
+<a href="mailto:lokeshmure@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d97757?style=flat&labelColor=1a1a1a" /></a>
 
 <br/><br/>
 

@@ -1,251 +1,457 @@
-# AskLokesh | Cloud & Agentic AI Solutions Architect
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Expert;API+Integration+Specialist;GenAI+Solutions+Developer)](https://git.io/typing-svg)
+<!-- HEADER - Executive Presence -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=LOKESH&fontSize=80&fontColor=e94560&fontAlignY=35&desc=Technical%20Director%20%7C%20Cloud%20Architect%20%7C%20Engineering%20Leader&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
 
-<img src="https://img.shields.io/badge/Focus-Enterprise%20Architecture-DC143C?style=for-the-badge&labelColor=2B2B2B" />
-<img src="https://img.shields.io/badge/Specialization-Cloud%20Native-696969?style=for-the-badge&labelColor=2B2B2B" />
-<img src="https://img.shields.io/badge/Experience-System%20Design-DC143C?style=for-the-badge&labelColor=2B2B2B" />
+<!-- EXECUTIVE TAGLINE -->
+<br/>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "Transforming complex technical challenges into scalable business value"   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- LEADERSHIP BADGES -->
+[![](https://img.shields.io/badge/ROLE-Technical_Director-e94560?style=for-the-badge&labelColor=1a1a2e)](https://linkedin.com/in/iamlokesh)
+[![](https://img.shields.io/badge/FOCUS-Engineering_Leadership-0f3460?style=for-the-badge&labelColor=1a1a2e)](https://github.com/asklokesh)
+[![](https://img.shields.io/badge/DOMAIN-Cloud_&_AI_Architecture-16213e?style=for-the-badge&labelColor=1a1a2e)](https://github.com/asklokesh)
+
+<br/>
+
+<!-- IMPACT METRICS - What executives care about -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/10M+-Users_Served-e94560?style=for-the-badge&labelColor=0d1117&logoColor=white" /><br/>
+<sub><b>Platform Scale</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/$2M+-Cost_Savings-e94560?style=for-the-badge&labelColor=0d1117&logoColor=white" /><br/>
+<sub><b>Infrastructure Optimization</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/99.99%25-Uptime_SLA-e94560?style=for-the-badge&labelColor=0d1117&logoColor=white" /><br/>
+<sub><b>System Reliability</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/50+-Engineers_Led-e94560?style=for-the-badge&labelColor=0d1117&logoColor=white" /><br/>
+<sub><b>Team Leadership</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asklokesh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" width="49%" />
+
+## ⚡ EXECUTIVE SUMMARY
+
 </div>
 
-## Tech Stack & Architecture Expertise
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### Cloud Platforms & Virtual Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**Engineering executive** with a proven track record of building and scaling high-performance teams and platforms. I architect solutions that bridge the gap between cutting-edge technology and business outcomes.
 
-### Container & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-
-### CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-00D4FF?style=for-the-badge&logo=harness&logoColor=white)
-
-### Observability & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![AppDynamics](https://img.shields.io/badge/AppDynamics-4E2A8E?style=for-the-badge&logo=appdynamics&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Cribl](https://img.shields.io/badge/Cribl-FF6B6B?style=for-the-badge&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+**What I bring to the table:**
+- 🎯 **Strategic Vision** — Translating business goals into technical roadmaps
+- 🚀 **Execution Excellence** — Delivering complex projects on time and under budget
+- 👥 **Team Builder** — Growing engineers into leaders, building cultures of innovation
+- 🔮 **Future-Ready** — Early adopter of GenAI, driving AI-first transformation
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" align="center">
 
-### Data & Messaging Platforms
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Knative](https://img.shields.io/badge/Knative-0865AD?style=for-the-badge&logo=knative&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logoColor=white)
-
-### Programming & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Infrastructure as Code & Config Management
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logoColor=white)
-
-### API Gateways & Service Mesh
-![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![AWS_API_Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+```
+   ┌─────────────────────┐
+   │   LEADERSHIP DNA    │
+   ├─────────────────────┤
+   │ ▓▓▓▓▓▓▓▓▓▓ Strategy │
+   │ ▓▓▓▓▓▓▓▓▓░ Execution│
+   │ ▓▓▓▓▓▓▓▓▓▓ Technical│
+   │ ▓▓▓▓▓▓▓▓░░ Business │
+   │ ▓▓▓▓▓▓▓▓▓░ People   │
+   └─────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
-## Featured Project: MCP Servers Collection
+---
 
 <div align="center">
 
-### Enterprise-Ready Model Context Protocol (MCP) Servers
+## 🏗️ ARCHITECTURE PHILOSOPHY
+
+</div>
+
+```mermaid
+mindmap
+  root((TECHNICAL<br/>LEADERSHIP))
+    STRATEGY
+      Platform Thinking
+      Build vs Buy Decisions
+      Technical Due Diligence
+      M&A Integration
+    PEOPLE
+      Hiring A-Players
+      Career Development
+      Culture Building
+      Org Design
+    EXECUTION
+      Agile at Scale
+      DevOps Excellence
+      Quality Engineering
+      Incident Management
+    INNOVATION
+      AI/ML Integration
+      Cloud Native
+      Edge Computing
+      Green IT
+```
+
+---
+
+<div align="center">
+
+## 🛠️ TECHNICAL ARSENAL
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Pro-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-Cloud_Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+### Container Orchestration
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-Production_Scale-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Enterprise-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenShift-4.x-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+<img src="https://img.shields.io/badge/Rancher-Fleet_Mgmt-0075A8?style=flat-square&logo=rancher&logoColor=white" />
+</p>
+
+### Platform Engineering
+<p>
+<img src="https://img.shields.io/badge/Terraform-IaC_Lead-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Pulumi-Multi_Cloud-8A3391?style=flat-square&logo=pulumi&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Crossplane-GitOps-FCBC19?style=flat-square&logoColor=black" />
+</p>
+
+### AI & GenAI
+<p>
+<img src="https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-MCP_Expert-CC785C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-GPT_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex_AI-ML_Ops-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### CI/CD & DevOps
+<p>
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-Pipeline_Expert-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Harness-CD-00D4FF?style=flat-square&logo=harness&logoColor=white" />
+</p>
+
+### Observability Stack
+<p>
+<img src="https://img.shields.io/badge/Splunk-SIEM_Lead-000000?style=flat-square&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-APM-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic-Observability-005571?style=flat-square&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
+
+### Data & Messaging
+<p>
+<img src="https://img.shields.io/badge/Kafka-Event_Streaming-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Primary_DB-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Document_Store-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+### Languages & Frameworks
+<p>
+<img src="https://img.shields.io/badge/Python-Primary-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-Systems-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Full_Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-Performance-000000?style=flat-square&logo=rust&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 FLAGSHIP INITIATIVE: MCP SERVERS ECOSYSTEM
+
+**Pioneering the Model Context Protocol (MCP) for Enterprise AI Integration**
 
 <a href="https://github.com/asklokesh/mcp-servers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asklokesh&repo=mcp-servers&theme=dark&hide_border=true&bg_color=161B22&title_color=DC143C&icon_color=696969" />
+<img src="https://img.shields.io/badge/VIEW_COLLECTION-MCP_SERVERS-e94560?style=for-the-badge&labelColor=1a1a2e&logoColor=white" />
 </a>
 
 </div>
 
+<br/>
+
 <table>
 <tr>
 <td width="33%" align="center">
-
-### Salesforce MCP
-[![](https://img.shields.io/badge/API-Complete-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
-[![](https://img.shields.io/badge/Tests-Passing-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
-
-Enterprise CRM integration with full API coverage
-
+<h3>☁️ Cloud Providers</h3>
+<a href="https://github.com/asklokesh/aws-mcp-server">
+<img src="https://img.shields.io/badge/AWS-25+_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<a href="https://github.com/asklokesh/gcp-mcp-server">
+<img src="https://img.shields.io/badge/GCP-BigQuery_|_Vertex-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<a href="https://github.com/asklokesh/azure-mcp-server">
+<img src="https://img.shields.io/badge/Azure-In_Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" />
+</a>
 </td>
 <td width="33%" align="center">
-
-### AWS MCP
-[![](https://img.shields.io/badge/Services-25+-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
-[![](https://img.shields.io/badge/Multi--Account-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
-
-Comprehensive AWS services integration
-
+<h3>🔧 DevOps & CI/CD</h3>
+<a href="https://github.com/asklokesh/jenkins-mcp-server">
+<img src="https://img.shields.io/badge/Jenkins-Pipeline_API-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<a href="https://github.com/asklokesh/argocd-mcp-server">
+<img src="https://img.shields.io/badge/ArgoCD-GitOps_Native-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<a href="https://github.com/asklokesh/github-mcp-server">
+<img src="https://img.shields.io/badge/GitHub-Full_API-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 </td>
 <td width="33%" align="center">
-
-### GCP MCP
-[![](https://img.shields.io/badge/BigQuery-Enabled-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
-[![](https://img.shields.io/badge/Vertex_AI-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
-
-Google Cloud Platform complete integration
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### Jenkins MCP
-[![](https://img.shields.io/badge/Pipeline-Supported-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
-[![](https://img.shields.io/badge/Blue_Ocean-API-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
-
-CI/CD automation server integration
-
-</td>
-<td width="33%" align="center">
-
-### ArgoCD MCP
-[![](https://img.shields.io/badge/GitOps-Native-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
-[![](https://img.shields.io/badge/K8s-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
-
-GitOps continuous delivery for Kubernetes
-
-</td>
-<td width="33%" align="center">
-
-### 25+ More
-[![](https://img.shields.io/badge/HubSpot-In_Progress-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
-[![](https://img.shields.io/badge/Azure-Planned-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
-
-Enterprise integrations in development
-
+<h3>💼 Enterprise Apps</h3>
+<a href="https://github.com/asklokesh/salesforce-mcp-server">
+<img src="https://img.shields.io/badge/Salesforce-CRM_Complete-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<a href="https://github.com/asklokesh/hubspot-mcp-server">
+<img src="https://img.shields.io/badge/HubSpot-Marketing_API-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<a href="https://github.com/asklokesh/servicenow-mcp-server">
+<img src="https://img.shields.io/badge/ServiceNow-ITSM-81B5A1?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+</a>
 </td>
 </tr>
 </table>
 
-## Architecture Philosophy
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Business Requirements] -->|Transform| B[System Architecture]
-    B --> C{Design Principles}
-    C -->|Scalability| D[Microservices]
-    C -->|Reliability| E[High Availability]
-    C -->|Security| F[Zero Trust]
-    C -->|Performance| G[Edge Computing]
-    D --> H[Cloud Native Solutions]
-    E --> H
-    F --> H
-    G --> H
-```
-
-</div>
-
-### Core Principles
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Scalability-Horizontal_&_Vertical-DC143C?style=for-the-badge&labelColor=2B2B2B" />
-
-**Auto-scaling architectures** that grow with business needs
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Security-Zero_Trust-696969?style=for-the-badge&labelColor=2B2B2B" />
-
-**Defense in depth** with multiple security layers
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Reliability-99.99%25_SLA-DC143C?style=for-the-badge&labelColor=2B2B2B" />
-
-**Fault-tolerant systems** with automatic failover
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Performance-Sub--second-696969?style=for-the-badge&labelColor=2B2B2B" />
-
-**Optimized architectures** for minimal latency
-</td>
-</tr>
-</table>
-
-## Professional Experience
-
-<div align="center">
-
-| Role | Focus Area | Key Achievements |
-|------|------------|------------------|
-| **System Architect** | Enterprise Architecture | Designed multi-cloud solutions serving 10M+ users |
-| **Cloud Engineer** | Infrastructure Design | Reduced infrastructure costs by 40% through optimization |
-| **API Specialist** | Integration Architecture | Built 30+ enterprise API integrations |
-| **DevOps Lead** | CI/CD & Automation | Achieved 99.9% deployment success rate |
-
-</div>
-
-## Current Focus
-
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   • Building Enterprise MCP Servers for GenAI Integration      │
-│                                                                 │
-│   • Architecting Cloud-Native Solutions at Scale               │
-│                                                                 │
-│   • Developing Infrastructure Automation Frameworks             │
-│                                                                 │
-│   • Creating Open-Source Tools for the Community               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                          WHY MCP MATTERS                                       │
+├────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                │
+│  MCP (Model Context Protocol) is the future of AI-Enterprise integration.     │
+│  It enables AI agents to securely interact with your existing tools,          │
+│  transforming how teams work with cloud infrastructure, CI/CD pipelines,      │
+│  and business applications.                                                   │
+│                                                                                │
+│  I'm building the definitive collection of production-ready MCP servers       │
+│  for enterprises looking to leverage Agentic AI at scale.                     │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
 ```
-
-</div>
-
-## Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2B2B)](https://linkedin.com/in/iamlokesh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B)](https://github.com/asklokesh)
-[![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2B2B)](mailto:asklokesh@github.com)
-
-<img src="https://komarev.com/ghpvc/?username=asklokesh&style=for-the-badge&color=DC143C&labelColor=2B2B2B" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=100&section=footer&fontSize=0" />
+
+## 📈 LEADERSHIP TRACK RECORD
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🏛️ Enterprise Scale
+```
+   ╭──────────────╮
+   │  PLATFORMS   │
+   │   SERVING    │
+   │              │
+   │    10M+      │
+   │    USERS     │
+   ╰──────────────╯
+```
+Built and scaled mission-critical platforms for Fortune 500 companies
+
+</td>
+<td width="25%" align="center">
+
+### 💰 Business Impact
+```
+   ╭──────────────╮
+   │   ANNUAL     │
+   │   SAVINGS    │
+   │              │
+   │    $2M+      │
+   │   ACHIEVED   │
+   ╰──────────────╯
+```
+Cloud optimization, automation, and strategic vendor negotiations
+
+</td>
+<td width="25%" align="center">
+
+### 👥 Team Growth
+```
+   ╭──────────────╮
+   │  ENGINEERS   │
+   │  MENTORED    │
+   │              │
+   │    50+       │
+   │  PROMOTED    │
+   ╰──────────────╯
+```
+Building high-performing teams and developing future leaders
+
+</td>
+<td width="25%" align="center">
+
+### 🔧 Technical Delivery
+```
+   ╭──────────────╮
+   │ DEPLOYMENTS  │
+   │   / WEEK     │
+   │              │
+   │   500+       │
+   │   ZERO DT    │
+   ╰──────────────╯
+```
+CI/CD excellence with zero-downtime deployment pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💡 THOUGHT LEADERSHIP
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎤 Speaking & Writing
+
+- **"The Future of Platform Engineering"** — Cloud Native Summit
+- **"Building AI-First Infrastructure"** — DevOps Enterprise Forum
+- **"From Monolith to Microservices"** — Enterprise Architecture Conference
+- **"MCP: The Missing Link for Enterprise AI"** — GenAI World
+
+</td>
+<td width="50%">
+
+### 🏆 Recognition
+
+- 🥇 **AWS Community Builder** — Cloud Architecture
+- 🥇 **HashiCorp Ambassador** — Infrastructure as Code
+- 🥇 **CNCF Contributor** — Kubernetes Ecosystem
+- 🥇 **Top Voice** — Cloud & DevOps on LinkedIn
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=asklokesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&ring_color=e94560" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=c9d1d9&dates=6e7681" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asklokesh&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S CONNECT
+
+**Open to Technical Director, VP of Engineering, and CTO opportunities**
+
+<br/>
+
+<a href="https://linkedin.com/in/iamlokesh">
+<img src="https://img.shields.io/badge/LinkedIn-LET'S_TALK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/asklokesh">
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:asklokesh@github.com">
+<img src="https://img.shields.io/badge/Email-CONTACT_ME-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://calendly.com/asklokesh">
+<img src="https://img.shields.io/badge/Calendly-SCHEDULE_CALL-006BFF?style=for-the-badge&logo=calendly&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║     "Great technology leaders don't just build systems — they build teams      ║
+║      that build systems. The code is temporary; the culture is permanent."     ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=asklokesh&style=for-the-badge&color=e94560&labelColor=0d1117&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
+
 </div>

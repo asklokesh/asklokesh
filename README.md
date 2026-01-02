@@ -211,7 +211,7 @@ graph LR
 
 <div align="center">
 
-| 🔧 Building | 📝 Description |
+|  Building |  Description |
 |-------------|----------------|
 | **Enterprise MCP Servers** | GenAI Integration for enterprise platforms |
 | **Cloud-Native Solutions** | Architecting solutions at scale |
@@ -236,6 +236,6 @@ graph LR
 
 <div align="center">
 
-**💡 Open to collaboration on enterprise cloud architecture and AI integration projects**
+** Open to collaboration on enterprise cloud architecture and AI integration projects**
 
 </div>

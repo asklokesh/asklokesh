@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Expert;API+Integration+Specialist;GenAI+Solutions+Developer)](https://git.io/typing-svg)
-
 <img src="https://img.shields.io/badge/Focus-Enterprise%20Architecture-DC143C?style=for-the-badge&labelColor=2B2B2B" />
 <img src="https://img.shields.io/badge/Specialization-Cloud%20Native-696969?style=for-the-badge&labelColor=2B2B2B" />
 <img src="https://img.shields.io/badge/Experience-System%20Design-DC143C?style=for-the-badge&labelColor=2B2B2B" />
@@ -11,11 +9,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asklokesh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asklokesh&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" width="49%" />
-</div>
 
 ## Tech Stack & Architecture Expertise
 
@@ -85,9 +78,7 @@
 
 ### Enterprise-Ready Model Context Protocol (MCP) Servers
 
-<a href="https://github.com/asklokesh/mcp-servers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asklokesh&repo=mcp-servers&theme=dark&hide_border=true&bg_color=161B22&title_color=DC143C&icon_color=696969" />
-</a>
+[![MCP Servers](https://img.shields.io/badge/MCP_Servers-Featured_Project-DC143C?style=for-the-badge&labelColor=2B2B2B)](https://github.com/asklokesh/mcp-servers)
 
 </div>
 
@@ -216,19 +207,12 @@ graph LR
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   • Building Enterprise MCP Servers for GenAI Integration      │
-│                                                                 │
-│   • Architecting Cloud-Native Solutions at Scale               │
-│                                                                 │
-│   • Developing Infrastructure Automation Frameworks             │
-│                                                                 │
-│   • Creating Open-Source Tools for the Community               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| 🔧 Building | 📝 Description |
+|-------------|----------------|
+| **Enterprise MCP Servers** | GenAI Integration for enterprise platforms |
+| **Cloud-Native Solutions** | Architecting solutions at scale |
+| **Infrastructure Automation** | Building automation frameworks |
+| **Open-Source Tools** | Contributing to the community |
 
 </div>
 
@@ -240,12 +224,14 @@ graph LR
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B)](https://github.com/asklokesh)
 [![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2B2B)](mailto:asklokesh@github.com)
 
-<img src="https://komarev.com/ghpvc/?username=asklokesh&style=for-the-badge&color=DC143C&labelColor=2B2B2B" />
+![Profile Views](https://komarev.com/ghpvc/?username=asklokesh&style=for-the-badge&color=DC143C&labelColor=2B2B2B)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=100&section=footer&fontSize=0" />
+
+**💡 Open to collaboration on enterprise cloud architecture and AI integration projects**
+
 </div>

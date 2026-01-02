@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Expert;API+Integration+Specialist;GenAI+Solutions+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Specialist;Agentic+AI+Solutions+Builder)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Focus-Enterprise%20Architecture-DC143C?style=for-the-badge&labelColor=2B2B2B" />
 <img src="https://img.shields.io/badge/Specialization-Cloud%20Native-696969?style=for-the-badge&labelColor=2B2B2B" />
@@ -11,8 +11,6 @@
 </div>
 
 ---
-
-
 
 ## Tech Stack & Architecture Expertise
 
@@ -76,13 +74,30 @@
 </tr>
 </table>
 
-## Featured Project: MCP Servers Collection
+---
+
+## Claude Skill: Loki-Mode
 
 <div align="center">
 
-### Enterprise-Ready Model Context Protocol (MCP) Servers
+**Multi-agent autonomous startup system for Claude Code - spawn parallel agents that work together on complex projects.**
 
-[![MCP Servers](https://img.shields.io/badge/MCP_Servers-Featured_Project-DC143C?style=for-the-badge&labelColor=2B2B2B)](https://github.com/asklokesh/mcp-servers)
+[![Loki-Mode](https://img.shields.io/badge/Claude_Skill-Loki--Mode-DC143C?style=for-the-badge&labelColor=2B2B2B&logo=claude&logoColor=white)](https://github.com/asklokesh/claudeskill-loki-mode)
+[![Stars](https://img.shields.io/github/stars/asklokesh/claudeskill-loki-mode?style=for-the-badge&color=696969&labelColor=2B2B2B)](https://github.com/asklokesh/claudeskill-loki-mode)
+[![Forks](https://img.shields.io/github/forks/asklokesh/claudeskill-loki-mode?style=for-the-badge&color=DC143C&labelColor=2B2B2B)](https://github.com/asklokesh/claudeskill-loki-mode)
+
+</div>
+
+---
+
+## Featured: LokiMCPUniverse - Enterprise MCP Servers
+
+<div align="center">
+
+### 25+ Production-Ready Model Context Protocol (MCP) Servers
+
+[![MCP Registry](https://img.shields.io/badge/MCP_Registry-asklokesh-DC143C?style=for-the-badge&labelColor=2B2B2B)](https://registry.modelcontextprotocol.io/?q=asklokesh)
+[![LokiMCPUniverse](https://img.shields.io/badge/GitHub_Org-LokiMCPUniverse-696969?style=for-the-badge&labelColor=2B2B2B&logo=github)](https://github.com/LokiMCPUniverse)
 
 </div>
 
@@ -90,62 +105,122 @@
 <tr>
 <td width="33%" align="center">
 
-### Salesforce MCP
-[![](https://img.shields.io/badge/API-Complete-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
-[![](https://img.shields.io/badge/Tests-Passing-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/salesforce-mcp-server)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://github.com/LokiMCPUniverse/salesforce-mcp-server)
 
-Enterprise CRM integration with full API coverage
+**Salesforce MCP**
 
-</td>
-<td width="33%" align="center">
-
-### AWS MCP
-[![](https://img.shields.io/badge/Services-25+-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
-[![](https://img.shields.io/badge/Multi--Account-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/aws-mcp-server)
-
-Comprehensive AWS services integration
+Enterprise CRM integration
 
 </td>
 <td width="33%" align="center">
 
-### GCP MCP
-[![](https://img.shields.io/badge/BigQuery-Enabled-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
-[![](https://img.shields.io/badge/Vertex_AI-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/gcp-mcp-server)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://github.com/LokiMCPUniverse/aws-mcp-server)
 
-Google Cloud Platform complete integration
+**AWS MCP**
+
+Cloud infrastructure management
+
+</td>
+<td width="33%" align="center">
+
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/LokiMCPUniverse/gcp-mcp-server)
+
+**GCP MCP**
+
+Google Cloud Platform integration
 
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 
-### Jenkins MCP
-[![](https://img.shields.io/badge/Pipeline-Supported-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
-[![](https://img.shields.io/badge/Blue_Ocean-API-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/jenkins-mcp-server)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/LokiMCPUniverse/azure-mcp-server)
 
-CI/CD automation server integration
+**Azure MCP**
 
-</td>
-<td width="33%" align="center">
-
-### ArgoCD MCP
-[![](https://img.shields.io/badge/GitOps-Native-DC143C?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
-[![](https://img.shields.io/badge/K8s-Ready-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh/argocd-mcp-server)
-
-GitOps continuous delivery for Kubernetes
+Microsoft Azure services
 
 </td>
 <td width="33%" align="center">
 
-### 25+ More
-[![](https://img.shields.io/badge/HubSpot-In_Progress-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
-[![](https://img.shields.io/badge/Azure-Planned-696969?style=flat-square&labelColor=2B2B2B)](https://github.com/asklokesh)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/LokiMCPUniverse/jenkins-mcp-server)
 
-Enterprise integrations in development
+**Jenkins MCP**
+
+CI/CD automation
+
+</td>
+<td width="33%" align="center">
+
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/LokiMCPUniverse/argocd-mcp-server)
+
+**ArgoCD MCP**
+
+GitOps for Kubernetes
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)](https://github.com/LokiMCPUniverse/servicenow-mcp-server)
+
+**ServiceNow MCP**
+
+ITSM automation
+
+</td>
+<td width="33%" align="center">
+
+[![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://github.com/LokiMCPUniverse/hubspot-mcp-server)
+
+**HubSpot MCP**
+
+Marketing & Sales CRM
+
+</td>
+<td width="33%" align="center">
+
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/LokiMCPUniverse/gitlab-mcp-server)
+
+**GitLab MCP**
+
+DevOps platform
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/LokiMCPUniverse/tableau-mcp-server)
+
+**Tableau MCP**
+
+Data visualization
+
+</td>
+<td width="33%" align="center">
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/LokiMCPUniverse/powerbi-mcp-server)
+
+**Power BI MCP**
+
+Business analytics
+
+</td>
+<td width="33%" align="center">
+
+[![Explore All](https://img.shields.io/badge/25+_More-Explore_All-DC143C?style=for-the-badge&labelColor=2B2B2B)](https://github.com/orgs/LokiMCPUniverse/repositories)
+
+**More Servers**
+
+[View All in Registry](https://registry.modelcontextprotocol.io/?q=asklokesh)
 
 </td>
 </tr>
 </table>
+
+---
 
 ## Architecture Philosophy
 
@@ -194,6 +269,8 @@ graph LR
 </tr>
 </table>
 
+---
+
 ## Professional Experience
 
 <div align="center">
@@ -207,18 +284,22 @@ graph LR
 
 </div>
 
+---
+
 ## Current Focus
 
 <div align="center">
 
-|  Building |  Description |
-|-------------|----------------|
+| Building | Description |
+|----------|-------------|
 | **Enterprise MCP Servers** | GenAI Integration for enterprise platforms |
+| **Claude Skills** | Agentic AI automation tools |
 | **Cloud-Native Solutions** | Architecting solutions at scale |
-| **Infrastructure Automation** | Building automation frameworks |
 | **Open-Source Tools** | Contributing to the community |
 
 </div>
+
+---
 
 ## Connect & Collaborate
 
@@ -236,6 +317,6 @@ graph LR
 
 <div align="center">
 
-** Open to collaboration on enterprise cloud architecture and AI integration projects**
+**Open to collaboration on enterprise cloud architecture and AI integration projects**
 
 </div>

@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Expert;API+Integration+Specialist;GenAI+Solutions+Developer)](https://git.io/typing-svg)
+
 <img src="https://img.shields.io/badge/Focus-Enterprise%20Architecture-DC143C?style=for-the-badge&labelColor=2B2B2B" />
 <img src="https://img.shields.io/badge/Specialization-Cloud%20Native-696969?style=for-the-badge&labelColor=2B2B2B" />
 <img src="https://img.shields.io/badge/Experience-System%20Design-DC143C?style=for-the-badge&labelColor=2B2B2B" />
@@ -9,6 +11,8 @@
 </div>
 
 ---
+
+
 
 ## Tech Stack & Architecture Expertise
 

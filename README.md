@@ -76,11 +76,11 @@
 
 ---
 
-## Claude Skill: Loki-Mode
+## Loki-Mode
 
 <div align="center">
 
-**Multi-agent autonomous startup system for Claude Code - spawn parallel agents that work together on complex projects.**
+**Multi-agent autonomous startup system (LLM CLI provider agnostic) - spawn parallel agents that work together on complex projects.**
 
 [![Loki-Mode](https://img.shields.io/badge/Claude_Skill-Loki--Mode-DC143C?style=for-the-badge&labelColor=2B2B2B&logo=claude&logoColor=white)](https://github.com/asklokesh/claudeskill-loki-mode)
 [![Stars](https://img.shields.io/github/stars/asklokesh/claudeskill-loki-mode?style=for-the-badge&color=696969&labelColor=2B2B2B)](https://github.com/asklokesh/claudeskill-loki-mode)

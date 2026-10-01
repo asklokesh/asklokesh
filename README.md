@@ -1,322 +1,77 @@
-# AskLokesh | Cloud & Agentic AI Solutions Architect
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Enterprise+System+Architect;Cloud+Infrastructure+Specialist;Agentic+AI+Solutions+Builder)](https://git.io/typing-svg)
+<img src="assets/banner.svg" alt="Lokesh Mure. I build software that checks its own work." width="100%">
 
-<img src="https://img.shields.io/badge/Focus-Enterprise%20Architecture-DC143C?style=for-the-badge&labelColor=2B2B2B" />
-<img src="https://img.shields.io/badge/Specialization-Cloud%20Native-696969?style=for-the-badge&labelColor=2B2B2B" />
-<img src="https://img.shields.io/badge/Experience-System%20Design-DC143C?style=for-the-badge&labelColor=2B2B2B" />
+[![Website](https://img.shields.io/badge/asklokesh.com-0b1020?style=for-the-badge)](https://asklokesh.com)
+[![Autonomi](https://img.shields.io/badge/autonomi.dev-5b4bd6?style=for-the-badge)](https://www.autonomi.dev)
+[![Loki Mode stars](https://img.shields.io/github/stars/asklokesh/loki-mode?style=for-the-badge&label=loki-mode%20stars&color=0b1020)](https://github.com/asklokesh/loki-mode)
 
 </div>
 
----
+## Hi, I'm Lokesh
 
-## Tech Stack & Architecture Expertise
+I build autonomous coding agents, and I spend most of my time on one question: how do you trust what an agent hands back?
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+Right now that work is **[Loki Mode](https://github.com/asklokesh/loki-mode)**, the open-source engine behind **[Autonomi](https://www.autonomi.dev)**. You give it a GitHub issue, a spec or a one-line task. It gives you a pull request, with a receipt you can re-check offline. It runs on your machine, with your own keys.
 
-### Cloud Platforms & Virtual Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+Everything I write, ship and think about lives at **[asklokesh.com](https://asklokesh.com)**.
 
-### Container & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+## How I got here
 
-### CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-00D4FF?style=for-the-badge&logo=harness&logoColor=white)
+It started in 2008 with an old Red Hat server in a college lab. A professor let me install RHEL on a dusty machine in the corner, and I learned more in two weeks than I had in a semester. I still remember the first time I SSHed in from across the hostel and felt like a hacker in a movie. I wrote about that, and the vi struggle, on the [blog](https://asklokesh.com/blog).
 
-### Observability & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![AppDynamics](https://img.shields.io/badge/AppDynamics-4E2A8E?style=for-the-badge&logo=appdynamics&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Cribl](https://img.shields.io/badge/Cribl-FF6B6B?style=for-the-badge&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+After a B.Tech in Electronics and Communication, I worked as a Linux L3 engineer running datacenter operations. Then an MS in Computer Science at Texas A&M, where I was a research assistant working on distributed systems.
 
-</td>
-<td width="50%" valign="top">
+Since then it has been cloud, data and AI platforms at enterprise scale: first as a cloud architect at telecom scale, then, from 2017, building platforms that serve millions of guests at a major entertainment company. Along the way I picked up the certs people ask about (AWS Solutions Architect Professional, CKA, CKAD, RHCE, Microsoft DevOps Engineer Expert), published two books, and started building in the open.
 
-### Data & Messaging Platforms
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Knative](https://img.shields.io/badge/Knative-0865AD?style=for-the-badge&logo=knative&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logoColor=white)
+In 2024 I went deep on agents. That became Loki Mode, and it is now the thing I work on full time.
 
-### Programming & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## Currently building
 
-### Infrastructure as Code & Config Management
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logoColor=white)
+**[Loki Mode / Autonomi](https://www.autonomi.dev)** is an autonomous software factory. Point it at an issue or a spec and it plans, builds and verifies, then opens a pull request. The part I care about most is the verification: I do not want an agent that says it is done, I want one that proves it.
 
-### API Gateways & Service Mesh
-![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![AWS_API_Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+[![Loki Mode](https://img.shields.io/github/stars/asklokesh/loki-mode?style=flat-square&label=stars)](https://github.com/asklokesh/loki-mode)
+[![Forks](https://img.shields.io/github/forks/asklokesh/loki-mode?style=flat-square&label=forks)](https://github.com/asklokesh/loki-mode/forks)
+[![Release](https://img.shields.io/github/v/release/asklokesh/loki-mode?style=flat-square)](https://github.com/asklokesh/loki-mode/releases)
 
-</td>
-</tr>
-</table>
-
----
-
-## Loki-Mode
-
-<div align="center">
-
-**Multi-agent autonomous startup system (LLM CLI provider agnostic) - spawn parallel agents that work together on complex projects.**
-
-[![Loki-Mode](https://img.shields.io/badge/Loki--Mode-DC143C?style=for-the-badge&labelColor=2B2B2B&logo=claude&logoColor=white)](https://github.com/asklokesh/claudeskill-loki-mode)
-[![Stars](https://img.shields.io/github/stars/asklokesh/claudeskill-loki-mode?style=for-the-badge&color=696969&labelColor=2B2B2B)](https://github.com/asklokesh/claudeskill-loki-mode)
-[![Forks](https://img.shields.io/github/forks/asklokesh/claudeskill-loki-mode?style=for-the-badge&color=DC143C&labelColor=2B2B2B)](https://github.com/asklokesh/claudeskill-loki-mode)
-
-</div>
-
----
-
-## Featured: LokiMCPUniverse - Enterprise MCP Servers
-
-<div align="center">
-
-### 25+ Production-Ready Model Context Protocol (MCP) Servers
-
-[![MCP Registry](https://img.shields.io/badge/MCP_Registry-asklokesh-DC143C?style=for-the-badge&labelColor=2B2B2B)](https://registry.modelcontextprotocol.io/?q=asklokesh)
-[![LokiMCPUniverse](https://img.shields.io/badge/GitHub_Org-LokiMCPUniverse-696969?style=for-the-badge&labelColor=2B2B2B&logo=github)](https://github.com/LokiMCPUniverse)
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://github.com/LokiMCPUniverse/salesforce-mcp-server)
-
-**Salesforce MCP**
-
-Enterprise CRM integration
-
-</td>
-<td width="33%" align="center">
-
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://github.com/LokiMCPUniverse/aws-mcp-server)
-
-**AWS MCP**
-
-Cloud infrastructure management
-
-</td>
-<td width="33%" align="center">
-
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/LokiMCPUniverse/gcp-mcp-server)
-
-**GCP MCP**
-
-Google Cloud Platform integration
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/LokiMCPUniverse/azure-mcp-server)
-
-**Azure MCP**
-
-Microsoft Azure services
-
-</td>
-<td width="33%" align="center">
-
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/LokiMCPUniverse/jenkins-mcp-server)
-
-**Jenkins MCP**
-
-CI/CD automation
-
-</td>
-<td width="33%" align="center">
-
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/LokiMCPUniverse/argocd-mcp-server)
-
-**ArgoCD MCP**
-
-GitOps for Kubernetes
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)](https://github.com/LokiMCPUniverse/servicenow-mcp-server)
-
-**ServiceNow MCP**
-
-ITSM automation
-
-</td>
-<td width="33%" align="center">
-
-[![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://github.com/LokiMCPUniverse/hubspot-mcp-server)
-
-**HubSpot MCP**
-
-Marketing & Sales CRM
-
-</td>
-<td width="33%" align="center">
-
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/LokiMCPUniverse/gitlab-mcp-server)
-
-**GitLab MCP**
-
-DevOps platform
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/LokiMCPUniverse/tableau-mcp-server)
-
-**Tableau MCP**
-
-Data visualization
-
-</td>
-<td width="33%" align="center">
-
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/LokiMCPUniverse/powerbi-mcp-server)
-
-**Power BI MCP**
-
-Business analytics
-
-</td>
-<td width="33%" align="center">
-
-[![Explore All](https://img.shields.io/badge/25+_More-Explore_All-DC143C?style=for-the-badge&labelColor=2B2B2B)](https://github.com/orgs/LokiMCPUniverse/repositories)
-
-**More Servers**
-
-[View All in Registry](https://registry.modelcontextprotocol.io/?q=asklokesh)
-
-</td>
-</tr>
-</table>
-
----
-
-## Architecture Philosophy
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Business Requirements] -->|Transform| B[System Architecture]
-    B --> C{Design Principles}
-    C -->|Scalability| D[Microservices]
-    C -->|Reliability| E[High Availability]
-    C -->|Security| F[Zero Trust]
-    C -->|Performance| G[Edge Computing]
-    D --> H[Cloud Native Solutions]
-    E --> H
-    F --> H
-    G --> H
+```bash
+npm install -g loki-mode
+loki start ./my-prd.md
 ```
 
-</div>
+It also installs with `bun` or `brew tap asklokesh/tap && brew install loki-mode`. It works with Claude, Codex and OpenCode.
 
-### Core Principles
+I am also doing independent research on dependable multi-agent systems ([HARLM, a paper on adaptive recursive language models](https://asklokesh.com/papers/harlm)) and finishing MIT Professional Education work in AI and machine learning. An MBA is next.
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Scalability-Horizontal_&_Vertical-DC143C?style=for-the-badge&labelColor=2B2B2B" />
+## Selected work
 
-**Auto-scaling architectures** that grow with business needs
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Security-Zero_Trust-696969?style=for-the-badge&labelColor=2B2B2B" />
+| Project | What it is |
+| --- | --- |
+| [**loki-mode**](https://github.com/asklokesh/loki-mode) | Autonomous software factory. Issue or spec in, verified pull request out. |
+| [**FireLater**](https://github.com/asklokesh/FireLater) | An open-source ServiceNow alternative for incidents, changes and service requests. I got tired of watching teams pay six figures for software they hate using. [Why I built it](https://asklokesh.com/blog/firelater-servicenow-alternative-99-percent-cheaper). |
+| [**NEXT-Portal**](https://github.com/asklokesh/NEXT-Portal) | A next-generation internal developer platform. |
+| [**LokiMCPUniverse**](https://github.com/LokiMCPUniverse) | 25+ enterprise MCP servers I built in a single sprint in 2024. Now archived, because the official provider-maintained servers replaced them, which is how it should go. |
+| [**sumolite**](https://github.com/asklokesh/sumolite) | Low-latency browser-based VNC alternative. WebRTC and hardware encode, macOS and Linux. |
+| [**k9s-gui**](https://github.com/asklokesh/k9s-gui) | A Kubernetes GUI for people who would rather not live in a terminal. |
 
-**Defense in depth** with multiple security layers
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Reliability-99.99%25_SLA-DC143C?style=for-the-badge&labelColor=2B2B2B" />
+More on the [portfolio page](https://asklokesh.com/portfolio).
 
-**Fault-tolerant systems** with automatic failover
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Performance-Sub--second-696969?style=for-the-badge&labelColor=2B2B2B" />
+## Books and writing
 
-**Optimized architectures** for minimal latency
-</td>
-</tr>
-</table>
+I have published two books, both in 2022:
 
----
+- **Mastering Cloud Engineering**, a practical guide to building and running cloud infrastructure across AWS, Azure, GCP, Kubernetes and Terraform. ([Amazon](https://www.amazon.com/Mastering-Cloud-Engineering-Strategies-Infrastructure-ebook/dp/B0BZQPFZRL))
+- **From Strangers to Founders**, stories of immigrants who helped build American industry and technology.
 
-## Professional Experience
+I also keep a [blog](https://asklokesh.com/blog) with close to 200 posts, from RHCE and Docker 1.0 to re:Invent recaps, agents and what is different about leading AI teams. There is a [newsletter](https://asklokesh.com/newsletter) too, Loki's Log.
 
-<div align="center">
+## Stack
 
-| Role | Focus Area | Key Achievements |
-|------|------------|------------------|
-| **System Architect** | Enterprise Architecture | Designed multi-cloud solutions serving 10M+ users |
-| **Cloud Engineer** | Infrastructure Design | Reduced infrastructure costs by 40% through optimization |
-| **API Specialist** | Integration Architecture | Built 30+ enterprise API integrations |
-| **DevOps Lead** | CI/CD & Automation | Achieved 99.9% deployment success rate |
+Python, Go, TypeScript and Shell. AWS, GCP, Azure, Kubernetes, Docker, Terraform, ArgoCD and Jenkins. Lately: LLM orchestration, multi-agent systems and evaluation.
 
-</div>
+## Find me
 
----
-
-## Current Focus
-
-<div align="center">
-
-| Building | Description |
-|----------|-------------|
-| **Enterprise MCP Servers** | GenAI Integration for enterprise platforms |
-| **Claude Skills** | Agentic AI automation tools |
-| **Cloud-Native Solutions** | Architecting solutions at scale |
-| **Open-Source Tools** | Contributing to the community |
-
-</div>
-
----
-
-## Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2B2B)](https://linkedin.com/in/iamlokesh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B)](https://github.com/asklokesh)
-[![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2B2B)](mailto:asklokesh@github.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=asklokesh&style=for-the-badge&color=DC143C&labelColor=2B2B2B)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to collaboration on enterprise cloud architecture and AI integration projects**
-
-</div>
+- Website and blog: [asklokesh.com](https://asklokesh.com)
+- Autonomi: [autonomi.dev](https://www.autonomi.dev)
+- Loki Mode: [github.com/asklokesh/loki-mode](https://github.com/asklokesh/loki-mode)
+- Book a 30 minute call: [asklokesh.com/schedule](https://asklokesh.com/schedule)

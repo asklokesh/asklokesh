@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Lokesh Mure. I build software that checks its own work.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Lokesh Mure. Applied AI and cloud architecture at enterprise scale.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -15,6 +15,6 @@
   </g>
   <rect x="80" y="82" width="64" height="6" rx="3" fill="url(#accent)"/>
   <text x="80" y="160" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Lokesh Mure</text>
-  <text x="80" y="208" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#c7d2fe">I build software that checks its own work.</text>
+  <text x="80" y="208" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" fill="#c7d2fe">Applied AI and cloud architecture at enterprise scale.</text>
   <text x="80" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#7dd3fc">asklokesh.com  /  autonomi.dev</text>
 </svg>

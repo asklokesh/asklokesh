@@ -10,7 +10,7 @@
 
 ## Hi, I'm Lokesh
 
-I lead applied AI engineering teams and enterprise-scale cloud architecture teams. The work spans modernization programs, reference architectures, distributed systems and platform engineering.
+I work with teams focused on enterprise cloud architecture and applied AI engineering, supporting modernization efforts, reference architecture design, distributed systems and platform engineering.
 
 Agents are one strand of that. The one I build in public is **[Loki Mode](https://github.com/asklokesh/loki-mode)**, the engine behind **[Autonomi](https://www.autonomi.dev)**. Everything I write, ship and think about lives at **[asklokesh.com](https://asklokesh.com)**.
 
